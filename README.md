@@ -2,13 +2,16 @@
 
 <div dir = rtl >
   
-### :ledger: Ch01
--  :page_facing_up: [01]()
--  :page_facing_up: [02]()
-### :ledger: Ch02
--  :page_facing_up: [01]()
-### :ledger: Ch03
--  :page_facing_up: [01]()
+### :ledger: مقدمة في Git
+-  :page_facing_up: [لماذا نحتاج Git؟]()
+-  :page_facing_up: [مفهوم أنظمة التحكم بالنسخ VCS]()
+-  :page_facing_up: [أنواع أنظمة التحكم بالنسخ VCS]()
+
+### :ledger: تحميل الأدوات
+-  :page_facing_up: [تحميل الأدوات]()
+### :ledger: ابدأ مع Git
+-  :page_facing_up: [الأمر git init جزء 1و2]()
+-  
 ### :ledger: Ch04
 -  :page_facing_up: [01]()
 -  :page_facing_up: [02]()
